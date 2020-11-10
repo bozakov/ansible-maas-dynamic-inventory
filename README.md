@@ -8,6 +8,8 @@ at either the tags or hostname prefix you have in your MAAS nodes.
 ### Requirements
 
 * Python3
+* oauth2
+* requests_cache 
 
 ### Example
 
